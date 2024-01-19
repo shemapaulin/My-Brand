@@ -25,10 +25,10 @@ const main = () => {
     />
         </h2>
         <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <FaFacebook className="cursor-pointer"size={20}/>
-            <FaInstagram className="cursor-pointer"size={20}/>
+           <a href="https://www.facebook.com/shema.paurin/"> <FaFacebook className="cursor-pointer"size={20}/></a>
+           <a href="https://www.instagram.com/shema.talk/"><FaInstagram className="cursor-pointer"size={20}/></a> 
             <FaTwitter className="cursor-pointer"size={20}/>
-            <FaLinkedinIn className="cursor-pointer"size={20}/>
+          <a href="https://www.linkedin.com/in/paulin-shema/"><FaLinkedinIn className="cursor-pointer"size={20}/></a>  
         </div>
     </div>
    </div>

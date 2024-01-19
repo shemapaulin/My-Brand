@@ -1,6 +1,4 @@
 import ProjectItem from "./ProjectItem";
-//import codenetImg from '../assets/codenet.PNG'
-//import gameHubImg from '../assets/gameHub.PNG'
 const Projects = () => {
   return (
     <div id="Projects" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
