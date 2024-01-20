@@ -131,7 +131,7 @@ const Resume = () => {
                 <span className="text-xl font-bold md:text-2xl">Values</span>
                 <span className="mt-4  text-[#001]">
                   INNOVATIVE/CREATIVE | COLLABORATIVE | TIME MANAGEMENT | HONEST
-                  | QUICK LEARNER | DESICION TAKER| more...
+                  | QUICK LEARNER | DESICION MAKER| more...
                 </span>
               </div>
             </div>
