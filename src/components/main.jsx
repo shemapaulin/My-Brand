@@ -1,5 +1,5 @@
 import { TypeAnimation } from "react-type-animation"
-import {FaTwitter,FaFacebook,FaInstagram,FaLinkedinIn} from 'react-icons/fa'
+import {FaGithub,FaFacebook,FaInstagram,FaLinkedinIn} from 'react-icons/fa'
 const main = () => {
   return (
     <div id="main">
@@ -27,7 +27,7 @@ const main = () => {
         <div className="flex justify-between pt-6 max-w-[200px] w-full">
            <a href="https://www.facebook.com/shema.paurin/"> <FaFacebook className="cursor-pointer"size={20}/></a>
            <a href="https://www.instagram.com/shema.talk/"><FaInstagram className="cursor-pointer"size={20}/></a> 
-            <FaTwitter className="cursor-pointer"size={20}/>
+           <a href="https://github.com/shemapaulin"><FaGithub className="cursor-pointer"size={20}/></a> 
           <a href="https://www.linkedin.com/in/paulin-shema/"><FaLinkedinIn className="cursor-pointer"size={20}/></a>  
         </div>
     </div>
