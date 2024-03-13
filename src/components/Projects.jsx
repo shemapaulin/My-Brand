@@ -12,8 +12,8 @@ const Projects = () => {
         time-tested principles.
       </p>
       <div className="grid sm:grid-cols-2 gap-12">
-        <ProjectItem img="/codenet.PNG" title="codenet BE" />
-        <ProjectItem img="/gameHub.PNG" title="GameHub FE&BE" />
+        <ProjectItem img="/codenet.PNG" title="codenet BE" link="https://codenetbeta.com/" />
+        <ProjectItem img="/gameHub.PNG" title="GameHub FE&BE" link="https://game-hub-shema-paulins-projects-954e3218.vercel.app/" />
       </div>
     </div>
   );
